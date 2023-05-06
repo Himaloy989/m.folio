@@ -1,0 +1,26 @@
+/* Extra Extra large device */
+@media (min-width: 1400px){}
+
+/* Extra large device */
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+}
+
+/* Large device */
+@media (min-width:992px) and (max-width:1199.98px){
+
+}
+
+/* Medium device */
+@media (min-width:768px) and (max-width:991.98px){
+
+}
+
+/* Small device */
+@media (min-width:576px) and (max-width:767.98px){
+
+}
+/* Extra Small device */
+@media (min-width:320px) and (max-width:575.98px){
+
+}
